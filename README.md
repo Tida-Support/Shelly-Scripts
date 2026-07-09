@@ -19,6 +19,8 @@ Dieses Skript verwandelt deinen Shelly Plug M Gen3 in einen intelligenten Lade-M
 * **Dynamische Restzeitanzeige:** Du siehst jederzeit im Dashboard, wie lange die Ladung noch dauert.
 * **Sicherheitsabschaltung (Auto-Off):** Fällt die Leistung des Ladegeräts am Ende der Ladung ab (Standby) oder wird der Akku getrennt, schaltet sich die Steckdose nach einer definierten Zeit automatisch ab, um Standby-Strom zu sparen und Brandgefahren zu minimieren.
 
+![Shelly App im Web](Shelly Web.png)
+
 ---
 
 ## 📱 Voraussetzungen & Systemumgebung
