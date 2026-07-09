@@ -22,7 +22,7 @@ Dieses Skript verwandelt deinen Shelly Plug M Gen3 in einen intelligenten Lade-M
 ![Shelly App im Web](https://github.com/Tida-Support/Shelly-Scripts/blob/main/Shelly%20Web.png)
 ![Shelly Plug](https://github.com/Tida-Support/Shelly-Scripts/blob/main/Shelly%20Plug.jpg)
 
-<img src="[pfad/zum/bild.png](https://github.com/Tida-Support/Shelly-Scripts/blob/main/Shelly%20Plug.jpg)" width="500" alt="Shelly Plug">
+<img src="https://github.com/Tida-Support/Shelly-Scripts/blob/main/Shelly%20Plug.jpg" width="500" alt="Shelly Plug">
 
 ---
 
