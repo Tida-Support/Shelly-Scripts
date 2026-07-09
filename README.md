@@ -54,7 +54,7 @@ Bevor du das Skript startest, musst du die Bedienelemente in der Shelly App erst
 > ⚠️ **Wichtig:** Sollten deine IDs von den Standardwerten im Skript abweichen (`number:200`, `text:200`, etc.), musst du diese im Konfigurationsbereich des Skripts (`CONFIGURATION - SLIDER & TEXT IDs`) kurz anpassen.
 
 ### Schritt 2: Skript auf den Shelly übertragen
-1. Kopiere den Code der `script.js` aus diesem Repository.
+1. Kopiere den Code der `Akku Ladung DE.js` aus diesem Repository.
 2. Gehe in der Shelly App beim Gerät auf den Menüpunkt **Scripts** und klicke auf **Add Script**.
 3. Füge den Code in den Editor ein.
 4. Benenne das Skript (z. B. `E-Bike Charge Control`).
