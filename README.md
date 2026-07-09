@@ -20,7 +20,7 @@ Dieses Skript verwandelt deinen Shelly Plug M Gen3 in einen intelligenten Lade-M
 * **Sicherheitsabschaltung (Auto-Off):** Fällt die Leistung des Ladegeräts am Ende der Ladung ab (Standby) oder wird der Akku getrennt, schaltet sich die Steckdose nach einer definierten Zeit automatisch ab, um Standby-Strom zu sparen und Brandgefahren zu minimieren.
 
 ![Shelly App im Web](https://github.com/Tida-Support/Shelly-Scripts/blob/main/Shelly%20Web.png)
-![Shelly Plug](https://github.com/Tida-Support/Shelly-Scripts/blob/main/Shelly%20Plug.jpg)
+
 
 <img src="https://github.com/Tida-Support/Shelly-Scripts/blob/main/Shelly%20Plug.jpg" width="500" alt="Shelly Plug">
 
