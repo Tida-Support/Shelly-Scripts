@@ -33,7 +33,7 @@ Das System lässt sich vollständig über die **Shelly Smart Control App** steue
 ### Benötigte Komponenten auf dem Shelly:
 Für die Bedienung müssen auf dem Shelly Plug M Gen3 folgende virtuelle Komponenten angelegt werden (die Steuerung erfolgt über die App):
 1. **Zwei Slider (Schieberegler):** Für den Start-Ladestand (z. B. $20\%$) und den gewünschten Ziel-Ladestand (z. B. $80\%$).
-2. **Drei Textfelder:** Zur Anzeige des aktuellen (geschätzten) Ladestands in $\%$, der bereits geladenen Energie ($Wh$/$W$) und des Ladestatus inklusive der berechneten **Restlaufzeit**.
+2. **Drei Textfelder:** Zur Anzeige des aktuellen (geschätzten) Ladestands in %, der bereits geladenen Energie (Wh/W) und des Ladestatus inklusive der berechneten **Restlaufzeit**.
 
 ---
 
